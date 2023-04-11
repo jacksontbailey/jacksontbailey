@@ -16,7 +16,17 @@ As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the
 ##
 <br clear="both">
 
-<div align="center" style="background-color: #56f1c6; padding: 3px;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacksontbailey&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksontbailey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="125" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="125" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="47" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
@@ -38,29 +48,6 @@ As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the
 </div>
 
 ###
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksontbailey&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksontbailey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="kazumadesu#2889" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="bailey95jackson@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-</div>
-
-###
 
 <br clear="both">
 
@@ -71,3 +58,15 @@ As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the
 </picture>
 
 ###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="bailey95jackson@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="kazumadesu#2889" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+</div>
