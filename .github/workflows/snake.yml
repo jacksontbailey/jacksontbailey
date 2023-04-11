@@ -9,16 +9,14 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-    - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v2 
+    
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
