@@ -49,15 +49,14 @@ As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the
 
 ###
 
-<br clear="both">
+<div align="center">
+ <picture style="display: block; margin: auto;">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake.svg">
+ </picture>
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacksontbailey/jacksontbailey/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacksontbailey/jacksontbailey/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jacksontbailey/jacksontbailey/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
 
 <br clear="both">
 
