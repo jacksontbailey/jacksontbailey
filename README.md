@@ -13,7 +13,7 @@ I'm a developer who is passionate about creating software that is intuitive, use
 ### **Fun Fact**
 As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the flavors of Barcelona, and admired the beauty of Paris, all while gaining some fluency in the languages of each country: Japanese, Spanish, and French!
 
-##
+<hr class="markdown-body" height="0.05em" background-color="#00ADCC"/>
 <br clear="both">
 
 <div align="center">
@@ -22,7 +22,15 @@ As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the
   <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="125" alt="streak graph"  />
 </div>
 
-###
+<br clear="both">
+
+<div align="center" width="100%">
+ <picture style="display: block; margin: auto;">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake.svg">
+ </picture>
+</div>
 
 <br clear="both">
 
@@ -48,15 +56,6 @@ As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the
 </div>
 
 ###
-
-<div align="center">
- <picture style="display: block; margin: auto;">
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://github.com/jacksontbailey/jacksontbailey/blob/output/github-contribution-grid-snake.svg">
- </picture>
-</div>
-
 
 <br clear="both">
 
