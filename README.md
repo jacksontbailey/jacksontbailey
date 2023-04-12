@@ -9,14 +9,15 @@ I'm a developer who is passionate about creating software that is intuitive, use
 - 🌱 I’m currently learning Next.js, Rust, ML
 - 👨‍💻 All of my projects are available at [jacksonbailey.design](https://jacksonbailey.design)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jackson95bailey-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson95bailey/)
-[![Twitter](https://img.shields.io/badge/Follow-pythonic_jax-informational?color=009CB8&logo=Twitter&logoColor=%2304D9FF&style=flat-square)](https://twitter.com/pythonic_jax)
-[![Email](https://img.shields.io/badge/Email-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](mailto:bailey95jackson@protonmail.com)
-[![Discord](https://img.shields.io/badge/Discord-kazumadesu2889-informational?&style=flat-square&color=5865F2&logo=discord&logoColor=white)](discordapp.com/users/664049735899938816)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson95bailey/)
+[![Twitter](https://img.shields.io/badge/-Twitter-informational?color=%231DA1F2&logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/pythonic_jax)
+[![Email](https://img.shields.io/badge/-Email-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](mailto:bailey95jackson@protonmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-informational?&style=flat-square&color=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/664049735899938816)
 ### **Fun Fact**
-As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the flavors of Barcelona, and admired the beauty of Paris, all while gaining some fluency in the languages of each country: Japanese, Spanish, and French!
+In 2020, my wife and I wisely decided to invest in our emotional wellbeing. How, you may ask? We adopted Denver, our cute corgi puppy! 
 
----
+<br clear="both">
+
 ## Technical Skills
  
 <div align="center">
@@ -44,12 +45,14 @@ As a seasoned traveler, I've explored the bustling streets of Tokyo, savored the
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksontbailey&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksontbailey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="125" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="125" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jacksontbailey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksontbailey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <br clear="both">
+
+## My Contributions
 
 <div align="center" width="100%">
  <picture style="display: block; margin: auto;">
