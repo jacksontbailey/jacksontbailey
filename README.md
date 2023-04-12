@@ -18,37 +18,76 @@ In 2020, my wife and I wisely decided to invest in our emotional wellbeing. How,
 
 <br clear="both">
 
-## Technical Skills
+<details>
+ <summary><h2>Technical Skills</h2></summary>
  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="47" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="35" width="47" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" width="47" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" width="47" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="35" width="47" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="35" width="47" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" width="47" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="47" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="47" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" width="47" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="35" width="47" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" width="47" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="47" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" width="47" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="47" alt="vscode logo"  />
-</div>
+### Programming Languages
+![CSS3](https://img.shields.io/badge/-CSS3-informational?color=1572B6&style=flat-square&logo=css3&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-informational?color=E34F26&style=flat-square&logo=html5&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-informational?color=F7DF1E&style=flat-square&logo=javascript&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-informational?color=3776AB&style=flat-square&logo=python&logoColor=FFFFFF)
+![Rust](https://img.shields.io/badge/-Rust-informational?color=000000&style=flat-square&logo=rust&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?color=3178C6&style=flat-square&logo=typescript&logoColor=FFFFFF)
+
+### Frameworks
+![Astro](https://img.shields.io/badge/-Astro-informational?color=FF5D01&style=flat-square&logo=astro&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/-Django-informational?color=092E20&style=flat-square&logo=django&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/-FastAPI-informational?color=009688&style=flat-square&logo=fastapi&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/-Flask-informational?color=000000&style=flat-square&logo=flask&logoColor=FFFFFF)
+![next%2Ejs](https://img.shields.io/badge/-next%2Ejs-informational?color=000000&style=flat-square&logo=next%2Ejs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-informational?color=61DAFB&style=flat-square&logo=react&logoColor=FFFFFF)
+
+### Libraries
+![Axios](https://img.shields.io/badge/-Axios-informational?color=5A29E4&style=flat-square&logo=axios&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?color=7952B3&style=flat-square&logo=bootstrap&logoColor=FFFFFF)
+![MUI](https://img.shields.io/badge/-MUI-informational?color=007FFF&style=flat-square&logo=mui&logoColor=FFFFFF)
+![PyTorch](https://img.shields.io/badge/-PyTorch-informational?color=EE4C2C&style=flat-square&logo=pytorch&logoColor=FFFFFF)
+![React%20Router](https://img.shields.io/badge/-React%20Router-informational?color=CA4245&style=flat-square&logo=reactrouter&logoColor=FFFFFF)
+![Sass](https://img.shields.io/badge/-Sass-informational?color=CC6699&style=flat-square&logo=sass&logoColor=FFFFFF)
+![selenium](https://img.shields.io/badge/-selenium-informational?color=43B02A&style=flat-square&logo=selenium&logoColor=FFFFFF)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-informational?color=06B6D4&style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-informational?color=FF6F00&style=flat-square&logo=tensorflow&logoColor=FFFFFF)
+
+### Databases
+![Microsoft%20Sql%20Server](https://img.shields.io/badge/-Microsoft%20Sql%20Server-informational?color=CC2927&style=flat-square&logo=microsoftsqlserver&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-informational?color=47A248&style=flat-square&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-informational?color=4479A1&style=flat-square&logo=mysql&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?color=4169E1&style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/-SQLite-informational?color=003B57&style=flat-square&logo=sqlite&logoColor=FFFFFF)
+
+### Data Science Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-informational?color=F37626&style=flat-square&logo=jupyter&logoColor=FFFFFF)
+![pandas](https://img.shields.io/badge/-pandas-informational?color=150458&style=flat-square&logo=pandas&logoColor=FFFFFF)
+![dNumPy](https://img.shields.io/badge/-NumPy-informational?color=013243&style=flat-square&logo=numpy&logoColor=FFFFFF)
+
+### Deployment Platforms
+![Docker](https://img.shields.io/badge/-Docker-informational?color=2496ED&style=flat-square&logo=docker&logoColor=FFFFFF)
+![Heroku](https://img.shields.io/badge/-Heroku-informational?color=491F59&style=flat-square&logo=heroku&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/-Netlify-informational?color=00C7B7&style=flat-square&logo=netlify&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/-Vercel-informational?color=000000&style=flat-square&logo=vercel&logoColor=FFFFFF)
+
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-informational?color=F05032&style=flat-square&logo=git&logoColor=FFFFFF)
+![node%2Ejs](https://img.shields.io/badge/-node%2Ejs-informational?color=339933&style=flat-square&logo=node%2Ejs&logoColor=FFFFFF)
+![npm](https://img.shields.io/badge/-npm-informational?color=CB3837&style=flat-square&logo=npm&logoColor=FFFFFF)
+![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?color=007ACC&style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
+
+### Utilities
+![Postman](https://img.shields.io/badge/-Postman-informational?color=FF6C37&style=flat-square&logo=postman&logoColor=FFFFFF)
+![Pytest](https://img.shields.io/badge/-Pytest-informational?color=0A9EDC&style=flat-square&logo=pytest&logoColor=FFFFFF)
+
+</details>
 
 <br clear="both">
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksontbailey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksontbailey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<section>
+ <h2>Github Stats</h2>
+ <div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=jacksontbailey&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=jacksontbailey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksontbailey&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+   <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
+</section>
 
 <br clear="both">
 
