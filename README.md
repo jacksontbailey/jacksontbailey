@@ -21,7 +21,7 @@ In 2020, my wife and I wisely decided to invest in our emotional wellbeing. How,
 <br clear="both">
 
 <details>
- <summary><b>:computer: Core Tech Skills</b></summary>
+ <summary><h3>:computer: Core Tech Skills</h3></summary>
  <br/>
  
 ![Python](https://img.shields.io/badge/-Python-informational?color=3776AB&style=flat-square&logo=python&logoColor=FFFFFF)
@@ -63,7 +63,7 @@ Axios, Postman, Pytest.
 </details>
 
 <details>
- <summary><b>:book: Additional Tech Skills, always improving</b></summary>
+ <summary><h3>:book: Additional Tech Skills, always improving</h3></summary>
  <br/>
 
 ![Rust](https://img.shields.io/badge/-Rust-informational?color=000000&style=flat-square&logo=rust&logoColor=FFFFFF)\
