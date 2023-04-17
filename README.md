@@ -1,3 +1,5 @@
+![Space Corgo](/images/svg/corgo_in_space.svg)
+
 # Hi there, I'm Jackson 👋
 
 I'm a developer who is passionate about creating software that is intuitive, user-friendly, and accessible. 
@@ -6,7 +8,7 @@ I'm a developer who is passionate about creating software that is intuitive, use
  
 
 - 🔭 I’m currently working on [MyHeroAPI](https://github.com/jacksontbailey/MyHeroAPI)
-- 🌱 I’m currently learning Next.js, Rust, ML
+- 🌱 I’m currently learning Next.js, Rust, and Machine Learning
 - 👨‍💻 All of my projects are available at [jacksonbailey.design](https://jacksonbailey.design)
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson95bailey/)
