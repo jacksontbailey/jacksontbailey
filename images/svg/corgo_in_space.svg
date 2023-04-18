@@ -57,7 +57,7 @@
         }
 
         #eiTLdaGmkDz2_ts {
-            animation: eiTLdaGmkDz2_ts__ts 30000ms linear infinite normal forwards
+            animation: eiTLdaGmkDz2_ts__ts 20000ms linear infinite normal forwards
         }
 
         @keyframes eiTLdaGmkDz2_ts__ts {
