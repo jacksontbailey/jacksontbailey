@@ -3,7 +3,7 @@
   <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
         #space_corgo {
-            animation: space_corgo__to 10000ms linear infinite normal forwards
+            animation: space_corgo__to 20000ms linear infinite normal forwards
         }
 
         @keyframes space_corgo__to {
@@ -57,7 +57,7 @@
         }
 
         #eiTLdaGmkDz2_ts {
-            animation: eiTLdaGmkDz2_ts__ts 10000ms linear infinite normal forwards
+            animation: eiTLdaGmkDz2_ts__ts 30000ms linear infinite normal forwards
         }
 
         @keyframes eiTLdaGmkDz2_ts__ts {
@@ -70,11 +70,11 @@
             }
 
             70% {
-                transform: scale(0.3, 0.3)
+                transform: scale(0.4, 0.4)
             }
 
             100% {
-                transform: scale(0.5, 0.5)
+                transform: scale(0.6, 0.6)
             }
         }
     </style>
