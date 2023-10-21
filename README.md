@@ -9,10 +9,8 @@ I'm a developer who is passionate about creating software that is intuitive, use
 
 - 🔭 I’m currently working on [MyHeroAPI](https://github.com/jacksontbailey/MyHeroAPI)
 - 🌱 I’m currently learning Next.js, Rust, and Machine Learning
-- 👨‍💻 All of my projects are available at [jacksonbailey.design](https://jacksonbailey.design)
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson95bailey/)
-[![Twitter](https://img.shields.io/badge/-Twitter-informational?color=%231DA1F2&logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/pythonic_jax)
 [![Email](https://img.shields.io/badge/-Email-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](mailto:bailey95jackson@protonmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-informational?&style=flat-square&color=5865F2&logo=discord&logoColor=white)](https://discordapp.com/users/664049735899938816)
 ### **Fun Fact**
@@ -90,14 +88,18 @@ MySQL, PostgreSQL, SQLite, Docker
 </details>
 
 <br clear="both">
+
 <section>
  <h2>Github Stats</h2>
  <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=jacksontbailey&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" height="150"/>
+ </div>
+ <br>
+ <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=jacksontbailey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksontbailey&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
    <img src="https://streak-stats.demolab.com?user=jacksontbailey&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
+ </div>
 </section>
 
 <br clear="both">
