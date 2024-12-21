@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/20GrbL2.png" alt="profile picture" align="right" style="float: left; margin-right: 1rem; height: 250px" />
 
-*Software Engineer at [OTO Development](https://www.otodevelopment.com/)*
+*Software Automation Engineer at [Second Front Systems](https://www.secondfront.com/)*
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson95bailey/)
 [![Email](https://img.shields.io/badge/-Email-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](mailto:bailey95jackson@protonmail.com)
@@ -26,6 +26,7 @@ In 2020, my wife and I wisely decided to invest in our emotional wellbeing. How,
 
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-informational?color=00A5B8&style=flat-square&logo=python&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/-Go-informational?color=00A5B8&style=flat-square&logo=go&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?color=00A5B8&style=flat-square&logo=javascript&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?color=00A5B8&style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C++-informational?color=00A5B8&style=flat-square&logo=c%2B%2B&logoColor=FFFFFF)
@@ -60,7 +61,7 @@ In 2020, my wife and I wisely decided to invest in our emotional wellbeing. How,
 ![Sass](https://img.shields.io/badge/-Sass-informational?color=00A5B8&style=flat-square&logo=sass&logoColor=FFFFFF)
 
 <!-- 
-Python, Django, FastAPI, Selenium, pandas.
+Python, Go, Django, FastAPI, Selenium, pandas.
 HTML, CSS, JavaScript, TypeScript, Node.js.
 React, React Router, Next.js, Astro, Bootstrap, SASS.
 MongoDB, Microsoft SQL Server.
